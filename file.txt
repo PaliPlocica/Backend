@@ -1,8 +1,4 @@
 line 1
-<<<<<<< HEAD
 line 2
 line 5
-=======
-line 7
-line 3
->>>>>>> a829da8e6fb7eb2ed19a2d9ddd7372656d9913a0
+linia nova
